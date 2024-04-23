@@ -7,7 +7,6 @@ import Image from 'next/image';
 import { useEffect, useState } from 'react';
 import { useAuthState } from 'react-firebase-hooks/auth';
 import { AiFillLike, AiFillDislike, AiOutlineLoading3Quarters, AiFillStar } from 'react-icons/ai';
-S;
 import { BsCheck2Circle } from 'react-icons/bs';
 import { TiStarOutline } from 'react-icons/ti';
 import { toast } from 'react-toastify';
